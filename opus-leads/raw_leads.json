@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Co.So Cocktails & Socials",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "The Hippie Island",
+    "category": "restaurant",
+    "area": "Kanhalgaon, Nagpur",
+    "handle": "@hippieisland_nagpur",
+    "website": null
+  },
+  {
+    "name": "Tandoor Garden Restaurant",
+    "category": "restaurant",
+    "area": "Wardha Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Rachel Coffee & Bakehouse",
+    "category": "cafe",
+    "area": "Mihan, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Bellavista Cafe & Skybar",
+    "category": "cafe",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Tipsy Turk",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Corner House",
+    "category": "restaurant",
+    "area": "Bajaj Nagar, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Romeo Lane",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Rabdiwala Pure Veg Restaurant",
+    "category": "restaurant",
+    "area": "Bhandara Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Ktas Cafe",
+    "category": "cafe",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Crumble Bean",
+    "category": "cafe",
+    "area": "Manish Nagar, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Wild Cup Roasters",
+    "category": "cafe",
+    "area": "Pardi Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Fika The Coffee Break",
+    "category": "cafe",
+    "area": "Prajapati Nagar, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Godwit Cafe",
+    "category": "cafe",
+    "area": "Civil Lines, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Three Beans",
+    "category": "cafe",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Coffee Script Cafe",
+    "category": "cafe",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Doppio Cafe",
+    "category": "cafe",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Collective Coffee House",
+    "category": "cafe",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Corridor Seven Coffee Roasters",
+    "category": "cafe",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Starter Junction",
+    "category": "cloud kitchen",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "BFoodale",
+    "category": "cloud kitchen",
+    "area": "Dharampeth, Nagpur",
+    "handle": null,
+    "website": "https://bfoodale.com"
+  },
+  {
+    "name": "Rai's Cloud Kitchen",
+    "category": "cloud kitchen",
+    "area": "Seminary Hills, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "The Cubic Meal",
+    "category": "cloud kitchen",
+    "area": "Nagpur",
+    "handle": null,
+    "website": "https://thecubicmeal.com"
+  },
+  {
+    "name": "The Cloud Kitchen8",
+    "category": "cloud kitchen",
+    "area": "Nagpur",
+    "handle": "@the_cloud_kitchen8",
+    "website": null
+  },
+  {
+    "name": "F2 The Cloud Kitchen",
+    "category": "cloud kitchen",
+    "area": "Ayodhya Nagar, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Ruby Cloud Kitchen",
+    "category": "cloud kitchen",
+    "area": "Mominpura, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "The Thailicious",
+    "category": "cloud kitchen",
+    "area": "Hingna T Point, Nagpur",
+    "handle": "@the_thailicious",
+    "website": null
+  },
+  {
+    "name": "Jubilee Bakery",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Ajit Bakery",
+    "category": "bakery",
+    "area": "Manish Nagar, Nagpur",
+    "handle": null,
+    "website": "https://ajitbakery.in"
+  },
+  {
+    "name": "Sai Chanduram Bakery",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Icing on the Cake",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Kumar Bakery",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Vidarbha Bakery",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Anand Bakery",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": "@anand_bakery_",
+    "website": null
+  },
+  {
+    "name": "Popular Bread Factory",
+    "category": "bakery",
+    "area": "Bagadganj, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Shankar Bakery",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Anaya Bakery 2.0",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Essence Bakery & Cafe",
+    "category": "bakery",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Pamma Panjabi Family Dhaba",
+    "category": "dhaba",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Rana Punjabi Dhaba",
+    "category": "dhaba",
+    "area": "Amravati Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Jassi Da Chulha Dhaba",
+    "category": "dhaba",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Gabbar Da Dhaba",
+    "category": "dhaba",
+    "area": "Wardha Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Sher-e-Punjab Dhaba",
+    "category": "dhaba",
+    "area": "Koradi Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "The City Dhhaba",
+    "category": "dhaba",
+    "area": "Nagpur",
+    "handle": null,
+    "website": "https://www.thecitydhhaba.com"
+  },
+  {
+    "name": "Kartare Da Dhaba",
+    "category": "dhaba",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Dawat Garden Family Restaurant",
+    "category": "dhaba",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Sardarji Dhaba",
+    "category": "dhaba",
+    "area": "Outer Ring Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Shankar Savaji Bhojnalay",
+    "category": "dhaba",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Dolly Chaiwala",
+    "category": "other",
+    "area": "VCA Stadium Square, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Chai Villa",
+    "category": "other",
+    "area": "Nagpur",
+    "handle": null,
+    "website": "https://chaivilla.com"
+  },
+  {
+    "name": "Raavan Tea Stall",
+    "category": "other",
+    "area": "Dharampeth, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Arun Tea Centre",
+    "category": "other",
+    "area": "Tiranga Square, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Santosh Chaiwala",
+    "category": "other",
+    "area": "Laxmi Nagar Square, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Baba Chaiwala",
+    "category": "other",
+    "area": "Mohd Ali Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Khetlaapa Tea Stall",
+    "category": "other",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Shraddha Farsan",
+    "category": "other",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "SLV Chinese",
+    "category": "other",
+    "area": "Telephone Exchange Chowk, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Nagpurs Dabbawala",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Thaat Baat",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Yash Restro",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Shreenath Pav Bhaji And Pulao Center",
+    "category": "other",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Ganga Sagar",
+    "category": "restaurant",
+    "area": "Manish Nagar, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "TaamJhaam",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Banjo's Food Chain",
+    "category": "fast food",
+    "area": "Umred Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "One Bite",
+    "category": "fast food",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Tilt Kitchen & Bar",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Freakk De",
+    "category": "fast food",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Whistling Woods",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Haldiram's Nagpur",
+    "category": "restaurant",
+    "area": "Asi Nagar Road, Nagpur",
+    "handle": null,
+    "website": null
+  },
+  {
+    "name": "Veeraswami",
+    "category": "restaurant",
+    "area": "Nagpur",
+    "handle": null,
+    "website": null
+  }
+]
